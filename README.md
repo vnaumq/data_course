@@ -7,8 +7,8 @@ A simple Python project demonstrating how to extract data from an API, process i
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/vnaumq/data_course.git
+cd data_course
 ```
 
 2. Create a virtual environment:
