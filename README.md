@@ -1,8 +1,4 @@
-# Introduction to APIs and Data Extraction
-
-A simple Python project demonstrating how to extract data from an API, process it using Pandas, and visualize exchange rates.
-
-## Installation
+# Installation
 
 1. Clone the repository:
 
